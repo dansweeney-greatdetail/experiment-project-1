@@ -1,0 +1,3 @@
+[submodule "Assets/Shared"]
+	path = Assets/Shared
+	url = git@github.com:dansweeney-greatdetail/experiment-shared.git
